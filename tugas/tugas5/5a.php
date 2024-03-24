@@ -68,7 +68,7 @@ $mahasiswa = [
     "NRP" => "233040111", 
     "Email" => "visollaADH@unpas.sc.id",
     "Jurusan" => "Hubungan Internasional",
-    "Gambar" => "pic.jpg"
+    "Gambar" => "foto 10.jpg"
 ],
             ];
  ?>
