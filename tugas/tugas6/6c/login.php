@@ -1,7 +1,7 @@
 <?php 
 
 if (isset($_POST["submit"])) {
-    if ($_POST["username"] == "admin" && $_POST["password"] == "9999") {
+    if ($_POST["username"] == "admin" && $_POST["password"] == "12345") {
         header("Location: admin.php");
         exit;
     } else {
@@ -43,7 +43,7 @@ if (isset($_POST["submit"])) {
             width: 80%;
             height: 80%;
             font-size: 1rem;
-            font-family: "Teko", sans-serif;
+            font-family: Arial, Helvetica, sans-serif;
             border-radius: 50px;
         }
 
